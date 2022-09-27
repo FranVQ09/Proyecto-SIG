@@ -1,6 +1,9 @@
+const tilesProvider = 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png'
+
 let map = L.map('map').setView([9.8512408, -83.9176921], 20)
 
-L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+L.tileLayer(tilesProvider, {
+    maxZoom: 19,
     atributtion: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
 }).addTo(map);
 
