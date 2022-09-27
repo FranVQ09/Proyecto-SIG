@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gxw SYSTEM "grass-gxw.dtd">
+<gxw>
+    <session>
+        <database>/Users/franvq09/Desktop/MapaProyecto</database>
+        <location>GrassData</location>
+        <mapset>PERMANENT</mapset>
+    </session>
+    <layer_manager dim="842,106,525,621">
+    </layer_manager>
+    <display name="Map Display 1" render="1" mode="0" showCompExtent="1" alignExtent="1" constrainRes="0" showStatusbar="1" showToolbars="1" dim="12,87,825,572" extent="-83.918668,9.850216,-83.914973,9.852479,-0.500000,0.500000" tbres="1.000000" viewMode="2d" >
+        <layer type="vector" name="map@PERMANENT" checked="0" opacity="1.000000">
+            <task name="d.vect">
+                <parameter name="map">
+                    <value>map@PERMANENT</value>
+                </parameter>
+                <parameter name="color">
+                    <value>0:29:57</value>
+                </parameter>
+                <parameter name="fcolor">
+                    <value>0:103:204</value>
+                </parameter>
+                <parameter name="width">
+                    <value>0</value>
+                </parameter>
+                <parameter name="icon">
+                    <value>basic/x</value>
+                </parameter>
+                <parameter name="size">
+                    <value>5</value>
+                </parameter>
+                <parameter name="type">
+                    <value>point,line,area,face</value>
+                </parameter>
+            </task>
+        </layer>
+        <layer type="vector" name="other_relations@PERMANENT" checked="0" opacity="1.000000">
+            <task name="d.vect">
+                <parameter name="map">
+                    <value>other_relations@PERMANENT</value>
+                </parameter>
+                <parameter name="color">
+                    <value>0:29:57</value>
+                </parameter>
+                <parameter name="fcolor">
+                    <value>0:103:204</value>
+                </parameter>
+                <parameter name="width">
+                    <value>0</value>
+                </parameter>
+                <parameter name="icon">
+                    <value>basic/x</value>
+                </parameter>
+                <parameter name="size">
+                    <value>5</value>
+                </parameter>
+                <parameter name="type">
+                    <value>point,line,area,face</value>
+                </parameter>
+            </task>
+        </layer>
+        <layer type="vector" name="Urbanizacion@PERMANENT" checked="0" opacity="1.000000">
+            <selected />
+            <task name="d.vect">
+                <parameter name="map">
+                    <value>Urbanizacion@PERMANENT</value>
+                </parameter>
+            </task>
+        </layer>
+        <layer type="vector" name="Tiendas@PERMANENT" checked="0" opacity="1.000000">
+            <task name="d.vect">
+                <parameter name="map">
+                    <value>Tiendas@PERMANENT</value>
+                </parameter>
+            </task>
+        </layer>
+        <layer type="vector" name="Parques@PERMANENT" checked="0" opacity="1.000000">
+            <task name="d.vect">
+                <parameter name="map">
+                    <value>Parques@PERMANENT</value>
+                </parameter>
+            </task>
+        </layer>
+        <layer type="vector" name="Casas@PERMANENT" checked="0" opacity="1.000000">
+            <task name="d.vect">
+                <parameter name="map">
+                    <value>Casas@PERMANENT</value>
+                </parameter>
+            </task>
+        </layer>
+        <layer type="vector" name="multipolygons@PERMANENT" checked="0" opacity="1.000000">
+            <task name="d.vect">
+                <parameter name="map">
+                    <value>multipolygons@PERMANENT</value>
+                </parameter>
+                <parameter name="color">
+                    <value>0:29:57</value>
+                </parameter>
+                <parameter name="fcolor">
+                    <value>0:103:204</value>
+                </parameter>
+                <parameter name="width">
+                    <value>0</value>
+                </parameter>
+                <parameter name="icon">
+                    <value>basic/x</value>
+                </parameter>
+                <parameter name="size">
+                    <value>5</value>
+                </parameter>
+                <parameter name="type">
+                    <value>point,line,area,face</value>
+                </parameter>
+            </task>
+        </layer>
+        <layer type="vector" name="multilinestrings@PERMANENT" checked="0" opacity="1.000000">
+            <task name="d.vect">
+                <parameter name="map">
+                    <value>multilinestrings@PERMANENT</value>
+                </parameter>
+                <parameter name="color">
+                    <value>0:29:57</value>
+                </parameter>
+                <parameter name="fcolor">
+                    <value>0:103:204</value>
+                </parameter>
+                <parameter name="width">
+                    <value>0</value>
+                </parameter>
+                <parameter name="icon">
+                    <value>basic/x</value>
+                </parameter>
+                <parameter name="size">
+                    <value>5</value>
+                </parameter>
+                <parameter name="type">
+                    <value>point,line,area,face</value>
+                </parameter>
+            </task>
+        </layer>
+        <layer type="vector" name="Calles@PERMANENT" checked="0" opacity="1.000000">
+            <task name="d.vect">
+                <parameter name="map">
+                    <value>Calles@PERMANENT</value>
+                </parameter>
+            </task>
+        </layer>
+        <layer type="vector" name="lines@PERMANENT" checked="0" opacity="1.000000">
+            <task name="d.vect">
+                <parameter name="map">
+                    <value>lines@PERMANENT</value>
+                </parameter>
+                <parameter name="color">
+                    <value>0:29:57</value>
+                </parameter>
+                <parameter name="fcolor">
+                    <value>0:103:204</value>
+                </parameter>
+                <parameter name="width">
+                    <value>0</value>
+                </parameter>
+                <parameter name="icon">
+                    <value>basic/x</value>
+                </parameter>
+                <parameter name="size">
+                    <value>5</value>
+                </parameter>
+                <parameter name="type">
+                    <value>point,line,area,face</value>
+                </parameter>
+            </task>
+        </layer>
+        <layer type="vector" name="postes@PERMANENT" checked="0" opacity="1.000000">
+            <task name="d.vect">
+                <parameter name="map">
+                    <value>postes@PERMANENT</value>
+                </parameter>
+            </task>
+        </layer>
+        <layer type="vector" name="hidrantes@PERMANENT" checked="0" opacity="1.000000">
+            <task name="d.vect">
+                <parameter name="map">
+                    <value>hidrantes@PERMANENT</value>
+                </parameter>
+            </task>
+        </layer>
+        <layer type="vector" name="points@PERMANENT" checked="0" opacity="1.000000">
+            <task name="d.vect">
+                <parameter name="map">
+                    <value>points@PERMANENT</value>
+                </parameter>
+                <parameter name="color">
+                    <value>0:29:57</value>
+                </parameter>
+                <parameter name="fcolor">
+                    <value>0:103:204</value>
+                </parameter>
+                <parameter name="width">
+                    <value>0</value>
+                </parameter>
+                <parameter name="icon">
+                    <value>basic/x</value>
+                </parameter>
+                <parameter name="size">
+                    <value>5</value>
+                </parameter>
+                <parameter name="type">
+                    <value>point,line,area,face</value>
+                </parameter>
+            </task>
+        </layer>
+    </display>
+</gxw>
