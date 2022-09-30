@@ -1,0 +1,2006 @@
+<osmChange version="0.6" generator="CGImap 0.8.8 (2115807 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<create>
+<node id="10030778170" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8507952" lon="-83.9165250"/>
+</create>
+<create>
+<node id="10030778171" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8507762" lon="-83.9163039"/>
+</create>
+<create>
+<node id="10030778172" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8507086" lon="-83.9163083"/>
+</create>
+<create>
+<node id="10030778173" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8507287" lon="-83.9165304"/>
+</create>
+<create>
+<node id="10030778174" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8508516" lon="-83.9165152"/>
+</create>
+<create>
+<node id="10030778175" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8508249" lon="-83.9163007"/>
+</create>
+<create>
+<node id="10030778176" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8509082" lon="-83.9165024"/>
+</create>
+<create>
+<node id="10030778177" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8508899" lon="-83.9162965"/>
+</create>
+<create>
+<node id="10030778178" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8509631" lon="-83.9164891"/>
+</create>
+<create>
+<node id="10030778179" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8509472" lon="-83.9162927"/>
+</create>
+<create>
+<node id="10030778180" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8510391" lon="-83.9164846"/>
+</create>
+<create>
+<node id="10030778181" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8510242" lon="-83.9162877"/>
+</create>
+<create>
+<node id="10030778182" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8511589" lon="-83.9164771"/>
+</create>
+<create>
+<node id="10030778183" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8511457" lon="-83.9162797"/>
+</create>
+<create>
+<node id="10030778184" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8512190" lon="-83.9164741"/>
+</create>
+<create>
+<node id="10030778185" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8512128" lon="-83.9162703"/>
+</create>
+<create>
+<node id="10030778186" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8512816" lon="-83.9164534"/>
+</create>
+<create>
+<node id="10030778187" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8512177" lon="-83.9164563"/>
+</create>
+<create>
+<node id="10030778188" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8514000" lon="-83.9164124"/>
+</create>
+<create>
+<node id="10030778189" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8513405" lon="-83.9164158"/>
+</create>
+<create>
+<node id="10030778190" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8513947" lon="-83.9162634"/>
+</create>
+<create>
+<node id="10030778191" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8514694" lon="-83.9164517"/>
+</create>
+<create>
+<node id="10030778192" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8514025" lon="-83.9164542"/>
+</create>
+<create>
+<node id="10030778193" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8514614" lon="-83.9162591"/>
+</create>
+<create>
+<node id="10030778194" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8515343" lon="-83.9164491"/>
+</create>
+<create>
+<node id="10030778195" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8515281" lon="-83.9162547"/>
+</create>
+<create>
+<node id="10030778196" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8515955" lon="-83.9164338"/>
+</create>
+<create>
+<node id="10030778197" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8515338" lon="-83.9164371"/>
+</create>
+<create>
+<node id="10030778198" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8515875" lon="-83.9162495"/>
+</create>
+<create>
+<node id="10030778199" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8518468" lon="-83.9164186"/>
+</create>
+<create>
+<node id="10030778200" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8518361" lon="-83.9162351"/>
+</create>
+<create>
+<node id="10030778201" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8519132" lon="-83.9164032"/>
+</create>
+<create>
+<node id="10030778202" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8518438" lon="-83.9164091"/>
+</create>
+<create>
+<node id="10030778203" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8518996" lon="-83.9162291"/>
+</create>
+<create>
+<node id="10030778204" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8519742" lon="-83.9163983"/>
+</create>
+<create>
+<node id="10030778205" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8519599" lon="-83.9162236"/>
+</create>
+<create>
+<node id="10030778206" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8520352" lon="-83.9163931"/>
+</create>
+<create>
+<node id="10030778207" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8520210" lon="-83.9162185"/>
+</create>
+<create>
+<node id="10030778208" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8521027" lon="-83.9163875"/>
+</create>
+<create>
+<node id="10030778209" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8520908" lon="-83.9162121"/>
+</create>
+<create>
+<node id="10030778210" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8522842" lon="-83.9167803"/>
+</create>
+<create>
+<node id="10030778211" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8522765" lon="-83.9166883"/>
+</create>
+<create>
+<node id="10030778212" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8524432" lon="-83.9166739"/>
+</create>
+<create>
+<node id="10030778213" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8524509" lon="-83.9167659"/>
+</create>
+<create>
+<node id="10030778214" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8524570" lon="-83.9168448"/>
+</create>
+<create>
+<node id="10030778215" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8522944" lon="-83.9168554"/>
+</create>
+<create>
+<node id="10030778216" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8524653" lon="-83.9169442"/>
+</create>
+<create>
+<node id="10030791017" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8523069" lon="-83.9169506"/>
+</create>
+<create>
+<node id="10030791018" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8524716" lon="-83.9170098"/>
+</create>
+<create>
+<node id="10030791019" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8523163" lon="-83.9170236"/>
+</create>
+<create>
+<node id="10030791020" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8524820" lon="-83.9170987"/>
+</create>
+<create>
+<node id="10030791021" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8523225" lon="-83.9171029"/>
+</create>
+<create>
+<node id="10030791022" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8524778" lon="-83.9171949"/>
+</create>
+<create>
+<node id="10030791023" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8523163" lon="-83.9171706"/>
+</create>
+<create>
+<node id="10030791024" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8524884" lon="-83.9173091"/>
+</create>
+<create>
+<node id="10030791025" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8524262" lon="-83.9174140"/>
+</create>
+<create>
+<node id="10030791026" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8523069" lon="-83.9171962"/>
+</create>
+<create>
+<node id="10030791027" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8520928" lon="-83.9174560"/>
+</create>
+<create>
+<node id="10030791028" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8520775" lon="-83.9173020"/>
+</create>
+<create>
+<node id="10030791029" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8520042" lon="-83.9173095"/>
+</create>
+<create>
+<node id="10030791030" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8520194" lon="-83.9174635"/>
+</create>
+<create>
+<node id="10030791031" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8519342" lon="-83.9173171"/>
+</create>
+<create>
+<node id="10030791032" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8519487" lon="-83.9174704"/>
+</create>
+<create>
+<node id="10030791033" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8518696" lon="-83.9174781"/>
+</create>
+<create>
+<node id="10030791034" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8518538" lon="-83.9173172"/>
+</create>
+<create>
+<node id="10030791035" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8519331" lon="-83.9173091"/>
+</create>
+<create>
+<node id="10030791036" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8517860" lon="-83.9174852"/>
+</create>
+<create>
+<node id="10030791037" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8517730" lon="-83.9173315"/>
+</create>
+<create>
+<node id="10030791038" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8518545" lon="-83.9173244"/>
+</create>
+<create>
+<node id="10030791039" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8517009" lon="-83.9174921"/>
+</create>
+<create>
+<node id="10030791040" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8516883" lon="-83.9173395"/>
+</create>
+<create>
+<node id="10030791041" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8516282" lon="-83.9174976"/>
+</create>
+<create>
+<node id="10030791042" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8516135" lon="-83.9173466"/>
+</create>
+<create>
+<node id="10030791043" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8510037" lon="-83.9171402"/>
+</create>
+<create>
+<node id="10030791044" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8509297" lon="-83.9171442"/>
+</create>
+<create>
+<node id="10030791045" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8509214" lon="-83.9169868"/>
+</create>
+<create>
+<node id="10030791046" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8509953" lon="-83.9169828"/>
+</create>
+<create>
+<node id="10030791047" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8510718" lon="-83.9171370"/>
+</create>
+<create>
+<node id="10030791048" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8510628" lon="-83.9169786"/>
+</create>
+<create>
+<node id="10030791049" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8511422" lon="-83.9171337"/>
+</create>
+<create>
+<node id="10030791050" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8511346" lon="-83.9169733"/>
+</create>
+<create>
+<node id="10030791051" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8512210" lon="-83.9171334"/>
+</create>
+<create>
+<node id="10030791052" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8512143" lon="-83.9169655"/>
+</create>
+<create>
+<node id="10030791053" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8512954" lon="-83.9171176"/>
+</create>
+<create>
+<node id="10030791054" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8512206" lon="-83.9171225"/>
+</create>
+<create>
+<node id="10030791055" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8512856" lon="-83.9169645"/>
+</create>
+<create>
+<node id="10030791056" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8513709" lon="-83.9171128"/>
+</create>
+<create>
+<node id="10030791057" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8513603" lon="-83.9169594"/>
+</create>
+<create>
+<node id="10030791058" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8514347" lon="-83.9171076"/>
+</create>
+<create>
+<node id="10030791059" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8514254" lon="-83.9169437"/>
+</create>
+<create>
+<node id="10030791060" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8513609" lon="-83.9169475"/>
+</create>
+<create>
+<node id="10030791061" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8515086" lon="-83.9171025"/>
+</create>
+<create>
+<node id="10030791062" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8514995" lon="-83.9169397"/>
+</create>
+<create>
+<node id="10030791063" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8515791" lon="-83.9170987"/>
+</create>
+<create>
+<node id="10030791064" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8515704" lon="-83.9169363"/>
+</create>
+<create>
+<node id="10030791065" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8516461" lon="-83.9170954"/>
+</create>
+<create>
+<node id="10030791066" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8516384" lon="-83.9169332"/>
+</create>
+<create>
+<node id="10030791067" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8516455" lon="-83.9170851"/>
+</create>
+<create>
+<node id="10030791068" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8517205" lon="-83.9170800"/>
+</create>
+<create>
+<node id="10030791069" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8517117" lon="-83.9169281"/>
+</create>
+<create>
+<node id="10030791070" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8517970" lon="-83.9170770"/>
+</create>
+<create>
+<node id="10030791071" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8517914" lon="-83.9169190"/>
+</create>
+<create>
+<node id="10030791072" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8517126" lon="-83.9169229"/>
+</create>
+<create>
+<node id="10030791073" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8518689" lon="-83.9170712"/>
+</create>
+<create>
+<node id="10030791074" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8518589" lon="-83.9169007"/>
+</create>
+<create>
+<node id="10030791075" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8517909" lon="-83.9169051"/>
+</create>
+<create>
+<node id="10030791076" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8520398" lon="-83.9170525"/>
+</create>
+<create>
+<node id="10030791077" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8520268" lon="-83.9168883"/>
+</create>
+<create>
+<node id="10030791078" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8521272" lon="-83.9170445"/>
+</create>
+<create>
+<node id="10030791079" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8521144" lon="-83.9168815"/>
+</create>
+<create>
+<node id="10030791080" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8522146" lon="-83.9170362"/>
+</create>
+<create>
+<node id="10030791081" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8522022" lon="-83.9168726"/>
+</create>
+<create>
+<node id="10030791082" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8522231" lon="-83.9171878"/>
+</create>
+<create>
+<node id="10030791083" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8521404" lon="-83.9171925"/>
+</create>
+<create>
+<node id="10030791084" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8521422" lon="-83.9172131"/>
+</create>
+<create>
+<node id="10030791085" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8520665" lon="-83.9172201"/>
+</create>
+<create>
+<node id="10030791086" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8520515" lon="-83.9170514"/>
+</create>
+<create>
+<node id="10030791087" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8520646" lon="-83.9171986"/>
+</create>
+<create>
+<node id="10030791088" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8519749" lon="-83.9172071"/>
+</create>
+<create>
+<node id="10030791089" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8519613" lon="-83.9170600"/>
+</create>
+<create>
+<node id="10030791090" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8519757" lon="-83.9172211"/>
+</create>
+<create>
+<node id="10030791091" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8519040" lon="-83.9172274"/>
+</create>
+<create>
+<node id="10030791092" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8518902" lon="-83.9170669"/>
+</create>
+<create>
+<node id="10030791093" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8518127" lon="-83.9170748"/>
+</create>
+<create>
+<node id="10030791094" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8518225" lon="-83.9172333"/>
+</create>
+<create>
+<node id="10030791095" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8517396" lon="-83.9172382"/>
+</create>
+<create>
+<node id="10030791096" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8517319" lon="-83.9170803"/>
+</create>
+<create>
+<node id="10030791097" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8516556" lon="-83.9172423"/>
+</create>
+<create>
+<node id="10030791098" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8516544" lon="-83.9172592"/>
+</create>
+<create>
+<node id="10030791099" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8515736" lon="-83.9172633"/>
+</create>
+<create>
+<node id="10030791100" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8515656" lon="-83.9170994"/>
+</create>
+<create>
+<node id="10030791101" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8514100" lon="-83.9172724"/>
+</create>
+<create>
+<node id="10030791102" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8513991" lon="-83.9171101"/>
+</create>
+<create>
+<node id="10030791103" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8513383" lon="-83.9172804"/>
+</create>
+<create>
+<node id="10030791104" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8513218" lon="-83.9171159"/>
+</create>
+<create>
+<node id="10030791105" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8511746" lon="-83.9173431"/>
+</create>
+<create>
+<node id="10030791106" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8510988" lon="-83.9173310"/>
+</create>
+<create>
+<node id="10030791107" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8510824" lon="-83.9171365"/>
+</create>
+<create>
+<node id="10030791108" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8510013" lon="-83.9173057"/>
+</create>
+<create>
+<node id="10030791109" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8509817" lon="-83.9171414"/>
+</create>
+<create>
+<node id="10030791110" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8509242" lon="-83.9169165"/>
+</create>
+<create>
+<node id="10030791111" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8508994" lon="-83.9169196"/>
+</create>
+<create>
+<node id="10030791112" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8508949" lon="-83.9168882"/>
+</create>
+<create>
+<node id="10030791113" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8508060" lon="-83.9169014"/>
+</create>
+<create>
+<node id="10030791114" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8507935" lon="-83.9168142"/>
+</create>
+<create>
+<node id="10030791115" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8509145" lon="-83.9167893"/>
+</create>
+<create>
+<node id="10030791116" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8509052" lon="-83.9167005"/>
+</create>
+<create>
+<node id="10030791117" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8508960" lon="-83.9165947"/>
+</create>
+<create>
+<node id="10030791118" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8508661" lon="-83.9165991"/>
+</create>
+<create>
+<node id="10030791119" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8508699" lon="-83.9166257"/>
+</create>
+<create>
+<node id="10030791120" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8507805" lon="-83.9166387"/>
+</create>
+<create>
+<node id="10030791121" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8507569" lon="-83.9166620"/>
+</create>
+<create>
+<node id="10030791122" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8507656" lon="-83.9167240"/>
+</create>
+<create>
+<node id="10030791123" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8510060" lon="-83.9169087"/>
+</create>
+<create>
+<node id="10030791124" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8509999" lon="-83.9167434"/>
+</create>
+<create>
+<node id="10030791125" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8509127" lon="-83.9167506"/>
+</create>
+<create>
+<node id="10030791126" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8509908" lon="-83.9165784"/>
+</create>
+<create>
+<node id="10030791127" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8510793" lon="-83.9169075"/>
+</create>
+<create>
+<node id="10030791128" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8510735" lon="-83.9167352"/>
+</create>
+<create>
+<node id="10030791129" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8510791" lon="-83.9168999"/>
+</create>
+<create>
+<node id="10030791130" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8511350" lon="-83.9167283"/>
+</create>
+<create>
+<node id="10030791131" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8511554" lon="-83.9168957"/>
+</create>
+<create>
+<node id="10030791132" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8512233" lon="-83.9168918"/>
+</create>
+<create>
+<node id="10030791133" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8512119" lon="-83.9167219"/>
+</create>
+<create>
+<node id="10030791134" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8512861" lon="-83.9167194"/>
+</create>
+<create>
+<node id="10030791135" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8512970" lon="-83.9168864"/>
+</create>
+<create>
+<node id="10030791136" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8512948" lon="-83.9168784"/>
+</create>
+<create>
+<node id="10030791137" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8512863" lon="-83.9167084"/>
+</create>
+<create>
+<node id="10030791138" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8513643" lon="-83.9167057"/>
+</create>
+<create>
+<node id="10030791139" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8513686" lon="-83.9168744"/>
+</create>
+<create>
+<node id="10030791140" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8514349" lon="-83.9167030"/>
+</create>
+<create>
+<node id="10030791141" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8514424" lon="-83.9168679"/>
+</create>
+<create>
+<node id="10030791142" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8515055" lon="-83.9166976"/>
+</create>
+<create>
+<node id="10030791143" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8515151" lon="-83.9168636"/>
+</create>
+<create>
+<node id="10030791144" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8515803" lon="-83.9168506"/>
+</create>
+<create>
+<node id="10030791145" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8515146" lon="-83.9168549"/>
+</create>
+<create>
+<node id="10030791146" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8515739" lon="-83.9166954"/>
+</create>
+<create>
+<node id="10030791147" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8516498" lon="-83.9166889"/>
+</create>
+<create>
+<node id="10030791148" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8516594" lon="-83.9168278"/>
+</create>
+<create>
+<node id="10030791149" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8515795" lon="-83.9168311"/>
+</create>
+<create>
+<node id="10030791150" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8517289" lon="-83.9168375"/>
+</create>
+<create>
+<node id="10030791151" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8517107" lon="-83.9168462"/>
+</create>
+<create>
+<node id="10030791152" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8516647" lon="-83.9168484"/>
+</create>
+<create>
+<node id="10030791153" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8517203" lon="-83.9166846"/>
+</create>
+<create>
+<node id="10030791154" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8518005" lon="-83.9168397"/>
+</create>
+<create>
+<node id="10030791155" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8517374" lon="-83.9168441"/>
+</create>
+<create>
+<node id="10030791156" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8517973" lon="-83.9166792"/>
+</create>
+<create>
+<node id="10030791157" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8518700" lon="-83.9168278"/>
+</create>
+<create>
+<node id="10030791158" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8518000" lon="-83.9168310"/>
+</create>
+<create>
+<node id="10030791159" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8518609" lon="-83.9166733"/>
+</create>
+<create>
+<node id="10030791160" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8519290" lon="-83.9166695"/>
+</create>
+<create>
+<node id="10030791161" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8519371" lon="-83.9168226"/>
+</create>
+<create>
+<node id="10030791162" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8518691" lon="-83.9168264"/>
+</create>
+<create>
+<node id="10030791163" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8520009" lon="-83.9166636"/>
+</create>
+<create>
+<node id="10030791164" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8520115" lon="-83.9168209"/>
+</create>
+<create>
+<node id="10030791165" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8521911" lon="-83.9166371"/>
+</create>
+<create>
+<node id="10030791166" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8521024" lon="-83.9166446"/>
+</create>
+<create>
+<node id="10030791167" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8521148" lon="-83.9167950"/>
+</create>
+<create>
+<node id="10030791168" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8522034" lon="-83.9167874"/>
+</create>
+<create>
+<node id="10030791169" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8520005" lon="-83.9166499"/>
+</create>
+<create>
+<node id="10030791170" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8519888" lon="-83.9164925"/>
+</create>
+<create>
+<node id="10030791171" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8520901" lon="-83.9164828"/>
+</create>
+<create>
+<node id="10030791172" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8519107" lon="-83.9164984"/>
+</create>
+<create>
+<node id="10030791173" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8519233" lon="-83.9166698"/>
+</create>
+<create>
+<node id="10030791174" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8518443" lon="-83.9165034"/>
+</create>
+<create>
+<node id="10030791175" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8517844" lon="-83.9165077"/>
+</create>
+<create>
+<node id="10030791176" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8517043" lon="-83.9165121"/>
+</create>
+<create>
+<node id="10030791177" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8516348" lon="-83.9165197"/>
+</create>
+<create>
+<node id="10030791178" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8515610" lon="-83.9165208"/>
+</create>
+<create>
+<node id="10030791179" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8514980" lon="-83.9165240"/>
+</create>
+<create>
+<node id="10030791180" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8512788" lon="-83.9165555"/>
+</create>
+<create>
+<node id="10030791181" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8511993" lon="-83.9165647"/>
+</create>
+<create>
+<node id="10030791182" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8511333" lon="-83.9167066"/>
+</create>
+<create>
+<node id="10030791183" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8511224" lon="-83.9165711"/>
+</create>
+<create>
+<node id="10030791184" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8510577" lon="-83.9165741"/>
+</create>
+<create>
+<node id="10030791185" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8507456" lon="-83.9173086"/>
+</create>
+<create>
+<node id="10030791186" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8507207" lon="-83.9172567"/>
+</create>
+<create>
+<node id="10030791187" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8505458" lon="-83.9172621"/>
+</create>
+<create>
+<node id="10030791188" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8505622" lon="-83.9173409"/>
+</create>
+<create>
+<node id="10030791189" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8505223" lon="-83.9171835"/>
+</create>
+<create>
+<node id="10030791190" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8506863" lon="-83.9171507"/>
+</create>
+<create>
+<node id="10030791191" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8506949" lon="-83.9172591"/>
+</create>
+<create>
+<node id="10030791192" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8505125" lon="-83.9171388"/>
+</create>
+<create>
+<node id="10030791193" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8505074" lon="-83.9171093"/>
+</create>
+<create>
+<node id="10030791194" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8506732" lon="-83.9170796"/>
+</create>
+<create>
+<node id="10030791195" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8504925" lon="-83.9170413"/>
+</create>
+<create>
+<node id="10030791196" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8506518" lon="-83.9170097"/>
+</create>
+<create>
+<node id="10030791197" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8506638" lon="-83.9170812"/>
+</create>
+<create>
+<node id="10030791198" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8504783" lon="-83.9169613"/>
+</create>
+<create>
+<node id="10030791199" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8506435" lon="-83.9169290"/>
+</create>
+<create>
+<node id="10030791200" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8504652" lon="-83.9168926"/>
+</create>
+<create>
+<node id="10030791201" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8506281" lon="-83.9168578"/>
+</create>
+<create>
+<node id="10030791202" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8506138" lon="-83.9167867"/>
+</create>
+<create>
+<node id="10030791203" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8504522" lon="-83.9168168"/>
+</create>
+<create>
+<node id="10030791204" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8506008" lon="-83.9167048"/>
+</create>
+<create>
+<node id="10030791205" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8504432" lon="-83.9167326"/>
+</create>
+<create>
+<node id="10030791206" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8504272" lon="-83.9165831"/>
+</create>
+<create>
+<node id="10030791207" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8505545" lon="-83.9165566"/>
+</create>
+<create>
+<node id="10030791208" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8505829" lon="-83.9167080"/>
+</create>
+<create>
+<node id="10030791209" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8503597" lon="-83.9165300"/>
+</create>
+<create>
+<node id="10030791210" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8505402" lon="-83.9164915"/>
+</create>
+<create>
+<node id="10030791211" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8505235" lon="-83.9164947"/>
+</create>
+<create>
+<node id="10030791212" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8505165" lon="-83.9164264"/>
+</create>
+<create>
+<node id="10030791213" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8503015" lon="-83.9164638"/>
+</create>
+<create>
+<way id="1095294897" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030778170"/>
+<nd ref="10030778171"/>
+<nd ref="10030778172"/>
+<nd ref="10030778173"/>
+<nd ref="10030778170"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294898" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030778174"/>
+<nd ref="10030778170"/>
+<nd ref="10030778171"/>
+<nd ref="10030778175"/>
+<nd ref="10030778174"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294899" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030778176"/>
+<nd ref="10030778174"/>
+<nd ref="10030778175"/>
+<nd ref="10030778177"/>
+<nd ref="10030778176"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294900" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030778178"/>
+<nd ref="10030778176"/>
+<nd ref="10030778177"/>
+<nd ref="10030778179"/>
+<nd ref="10030778178"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294901" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030778180"/>
+<nd ref="10030778178"/>
+<nd ref="10030778179"/>
+<nd ref="10030778181"/>
+<nd ref="10030778180"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294902" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030778182"/>
+<nd ref="10030778180"/>
+<nd ref="10030778181"/>
+<nd ref="10030778183"/>
+<nd ref="10030778182"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294903" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030778184"/>
+<nd ref="10030778182"/>
+<nd ref="10030778183"/>
+<nd ref="10030778185"/>
+<nd ref="10030778187"/>
+<nd ref="10030778184"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294904" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030778186"/>
+<nd ref="10030778187"/>
+<nd ref="10030778185"/>
+<nd ref="10030434652"/>
+<nd ref="10030778186"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294905" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030778188"/>
+<nd ref="10030778189"/>
+<nd ref="10030434651"/>
+<nd ref="10030778190"/>
+<nd ref="10030778188"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294906" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030778191"/>
+<nd ref="10030778192"/>
+<nd ref="10030778190"/>
+<nd ref="10030778193"/>
+<nd ref="10030778191"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294907" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030778191"/>
+<nd ref="10030778194"/>
+<nd ref="10030778197"/>
+<nd ref="10030778195"/>
+<nd ref="10030778193"/>
+<nd ref="10030778191"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294908" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030778196"/>
+<nd ref="10030778197"/>
+<nd ref="10030778195"/>
+<nd ref="10030778198"/>
+<nd ref="10030778196"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294909" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030434655"/>
+<nd ref="10030778196"/>
+<nd ref="10030778198"/>
+<nd ref="10030434656"/>
+<nd ref="10030434655"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294910" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030434654"/>
+<nd ref="10030778199"/>
+<nd ref="10030778202"/>
+<nd ref="10030778200"/>
+<nd ref="10030434657"/>
+<nd ref="10030434654"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294911" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030778201"/>
+<nd ref="10030778202"/>
+<nd ref="10030778200"/>
+<nd ref="10030778203"/>
+<nd ref="10030778201"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294912" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030778204"/>
+<nd ref="10030778201"/>
+<nd ref="10030778203"/>
+<nd ref="10030778205"/>
+<nd ref="10030778204"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294913" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030778206"/>
+<nd ref="10030778204"/>
+<nd ref="10030778205"/>
+<nd ref="10030778207"/>
+<nd ref="10030778206"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294914" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030778208"/>
+<nd ref="10030778206"/>
+<nd ref="10030778207"/>
+<nd ref="10030778209"/>
+<nd ref="10030778208"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294915" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030778210"/>
+<nd ref="10030778211"/>
+<nd ref="10030778212"/>
+<nd ref="10030778213"/>
+<nd ref="10030778210"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294916" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030778213"/>
+<nd ref="10030778214"/>
+<nd ref="10030778215"/>
+<nd ref="10030778210"/>
+<nd ref="10030778213"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294917" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030778214"/>
+<nd ref="10030778216"/>
+<nd ref="10030791017"/>
+<nd ref="10030778215"/>
+<nd ref="10030778214"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294918" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030778216"/>
+<nd ref="10030791018"/>
+<nd ref="10030791019"/>
+<nd ref="10030791017"/>
+<nd ref="10030778216"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294919" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030791018"/>
+<nd ref="10030791020"/>
+<nd ref="10030791021"/>
+<nd ref="10030791019"/>
+<nd ref="10030791018"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294920" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030791020"/>
+<nd ref="10030791022"/>
+<nd ref="10030791023"/>
+<nd ref="10030791021"/>
+<nd ref="10030791020"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294921" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030791024"/>
+<nd ref="10030791025"/>
+<nd ref="10030434658"/>
+<nd ref="10030791026"/>
+<nd ref="10030791024"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294922" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030791027"/>
+<nd ref="10030791028"/>
+<nd ref="10030791029"/>
+<nd ref="10030791030"/>
+<nd ref="10030791027"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294923" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030791029"/>
+<nd ref="10030791031"/>
+<nd ref="10030791032"/>
+<nd ref="10030791030"/>
+<nd ref="10030791029"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294924" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030791032"/>
+<nd ref="10030791033"/>
+<nd ref="10030791038"/>
+<nd ref="10030791034"/>
+<nd ref="10030791035"/>
+<nd ref="10030791032"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294925" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030791033"/>
+<nd ref="10030791036"/>
+<nd ref="10030791037"/>
+<nd ref="10030791038"/>
+<nd ref="10030791033"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294926" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030791036"/>
+<nd ref="10030791039"/>
+<nd ref="10030791040"/>
+<nd ref="10030791037"/>
+<nd ref="10030791036"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294927" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030791039"/>
+<nd ref="10030791041"/>
+<nd ref="10030298409"/>
+<nd ref="10030298410"/>
+<nd ref="10030791042"/>
+<nd ref="10030791040"/>
+<nd ref="10030791039"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294928" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030791043"/>
+<nd ref="10030791109"/>
+<nd ref="10030791044"/>
+<nd ref="10030791045"/>
+<nd ref="10030791046"/>
+<nd ref="10030791043"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294929" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030791047"/>
+<nd ref="10030791043"/>
+<nd ref="10030791046"/>
+<nd ref="10030791048"/>
+<nd ref="10030791047"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294930" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030791047"/>
+<nd ref="10030791107"/>
+<nd ref="10030791049"/>
+<nd ref="10030791050"/>
+<nd ref="10030791048"/>
+<nd ref="10030791047"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294931" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030791049"/>
+<nd ref="10030791051"/>
+<nd ref="10030791054"/>
+<nd ref="10030791052"/>
+<nd ref="10030791050"/>
+<nd ref="10030791049"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294932" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030791053"/>
+<nd ref="10030791054"/>
+<nd ref="10030791052"/>
+<nd ref="10030791055"/>
+<nd ref="10030791053"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294933" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030791053"/>
+<nd ref="10030791104"/>
+<nd ref="10030791056"/>
+<nd ref="10030791057"/>
+<nd ref="10030791055"/>
+<nd ref="10030791053"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294934" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030791056"/>
+<nd ref="10030791102"/>
+<nd ref="10030791058"/>
+<nd ref="10030791059"/>
+<nd ref="10030791060"/>
+<nd ref="10030791056"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294935" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030791058"/>
+<nd ref="10030791061"/>
+<nd ref="10030791062"/>
+<nd ref="10030791059"/>
+<nd ref="10030791058"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294936" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030791061"/>
+<nd ref="10030791100"/>
+<nd ref="10030791063"/>
+<nd ref="10030791064"/>
+<nd ref="10030791062"/>
+<nd ref="10030791061"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294937" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030791063"/>
+<nd ref="10030791065"/>
+<nd ref="10030791067"/>
+<nd ref="10030791066"/>
+<nd ref="10030791064"/>
+<nd ref="10030791063"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294938" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030791067"/>
+<nd ref="10030791068"/>
+<nd ref="10030791069"/>
+<nd ref="10030791066"/>
+<nd ref="10030791067"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294939" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030791068"/>
+<nd ref="10030791096"/>
+<nd ref="10030791070"/>
+<nd ref="10030791071"/>
+<nd ref="10030791072"/>
+<nd ref="10030791068"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294940" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030791070"/>
+<nd ref="10030791093"/>
+<nd ref="10030791073"/>
+<nd ref="10030791074"/>
+<nd ref="10030791075"/>
+<nd ref="10030791071"/>
+<nd ref="10030791070"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294941" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030791076"/>
+<nd ref="10030791077"/>
+<nd ref="10030791074"/>
+<nd ref="10030791073"/>
+<nd ref="10030791092"/>
+<nd ref="10030791089"/>
+<nd ref="10030791076"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294942" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030791078"/>
+<nd ref="10030791086"/>
+<nd ref="10030791076"/>
+<nd ref="10030791077"/>
+<nd ref="10030791079"/>
+<nd ref="10030791078"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294943" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030791080"/>
+<nd ref="10030791078"/>
+<nd ref="10030791079"/>
+<nd ref="10030791081"/>
+<nd ref="10030791080"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294944" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030791082"/>
+<nd ref="10030791083"/>
+<nd ref="10030791078"/>
+<nd ref="10030791080"/>
+<nd ref="10030791082"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294945" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030791083"/>
+<nd ref="10030791084"/>
+<nd ref="10030791085"/>
+<nd ref="10030791087"/>
+<nd ref="10030791086"/>
+<nd ref="10030791078"/>
+<nd ref="10030791083"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294946" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030791087"/>
+<nd ref="10030791088"/>
+<nd ref="10030791089"/>
+<nd ref="10030791076"/>
+<nd ref="10030791086"/>
+<nd ref="10030791087"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294947" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030791088"/>
+<nd ref="10030791090"/>
+<nd ref="10030791091"/>
+<nd ref="10030791092"/>
+<nd ref="10030791089"/>
+<nd ref="10030791088"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294948" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030791091"/>
+<nd ref="10030791094"/>
+<nd ref="10030791093"/>
+<nd ref="10030791073"/>
+<nd ref="10030791092"/>
+<nd ref="10030791091"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294949" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030791094"/>
+<nd ref="10030791095"/>
+<nd ref="10030791096"/>
+<nd ref="10030791070"/>
+<nd ref="10030791093"/>
+<nd ref="10030791094"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294950" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030791095"/>
+<nd ref="10030791097"/>
+<nd ref="10030791065"/>
+<nd ref="10030791067"/>
+<nd ref="10030791068"/>
+<nd ref="10030791096"/>
+<nd ref="10030791095"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294951" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030791097"/>
+<nd ref="10030791098"/>
+<nd ref="10030791099"/>
+<nd ref="10030791100"/>
+<nd ref="10030791063"/>
+<nd ref="10030791065"/>
+<nd ref="10030791097"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294952" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030791099"/>
+<nd ref="10030791101"/>
+<nd ref="10030791102"/>
+<nd ref="10030791058"/>
+<nd ref="10030791061"/>
+<nd ref="10030791100"/>
+<nd ref="10030791099"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294953" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030791101"/>
+<nd ref="10030791103"/>
+<nd ref="10030791104"/>
+<nd ref="10030791056"/>
+<nd ref="10030791102"/>
+<nd ref="10030791101"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294954" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030791103"/>
+<nd ref="10030791105"/>
+<nd ref="10030791106"/>
+<nd ref="10030791107"/>
+<nd ref="10030791049"/>
+<nd ref="10030791051"/>
+<nd ref="10030791054"/>
+<nd ref="10030791053"/>
+<nd ref="10030791104"/>
+<nd ref="10030791103"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294955" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030791106"/>
+<nd ref="10030791108"/>
+<nd ref="10030791109"/>
+<nd ref="10030791043"/>
+<nd ref="10030791047"/>
+<nd ref="10030791107"/>
+<nd ref="10030791106"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294956" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030791110"/>
+<nd ref="10030791111"/>
+<nd ref="10030791112"/>
+<nd ref="10030791113"/>
+<nd ref="10030791114"/>
+<nd ref="10030791115"/>
+<nd ref="10030791110"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294957" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030791116"/>
+<nd ref="10030791117"/>
+<nd ref="10030791118"/>
+<nd ref="10030791119"/>
+<nd ref="10030791120"/>
+<nd ref="10030791121"/>
+<nd ref="10030791122"/>
+<nd ref="10030791116"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294958" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030791123"/>
+<nd ref="10030791124"/>
+<nd ref="10030791125"/>
+<nd ref="10030791115"/>
+<nd ref="10030791110"/>
+<nd ref="10030791123"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294959" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030791125"/>
+<nd ref="10030791116"/>
+<nd ref="10030791117"/>
+<nd ref="10030791126"/>
+<nd ref="10030791124"/>
+<nd ref="10030791125"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294960" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030791123"/>
+<nd ref="10030791127"/>
+<nd ref="10030791129"/>
+<nd ref="10030791128"/>
+<nd ref="10030791124"/>
+<nd ref="10030791123"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294961" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030791129"/>
+<nd ref="10030791131"/>
+<nd ref="10030791130"/>
+<nd ref="10030791128"/>
+<nd ref="10030791129"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294962" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030791131"/>
+<nd ref="10030791132"/>
+<nd ref="10030791133"/>
+<nd ref="10030791130"/>
+<nd ref="10030791131"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294963" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030791133"/>
+<nd ref="10030791134"/>
+<nd ref="10030791136"/>
+<nd ref="10030791135"/>
+<nd ref="10030791132"/>
+<nd ref="10030791133"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294964" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030791134"/>
+<nd ref="10030791137"/>
+<nd ref="10030339450"/>
+<nd ref="10030791138"/>
+<nd ref="10030791139"/>
+<nd ref="10030791136"/>
+<nd ref="10030791134"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294965" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030791138"/>
+<nd ref="10030791140"/>
+<nd ref="10030791141"/>
+<nd ref="10030791139"/>
+<nd ref="10030791138"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294966" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030791140"/>
+<nd ref="10030791142"/>
+<nd ref="10030791145"/>
+<nd ref="10030791143"/>
+<nd ref="10030791141"/>
+<nd ref="10030791140"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294967" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030791144"/>
+<nd ref="10030791145"/>
+<nd ref="10030791142"/>
+<nd ref="10030791146"/>
+<nd ref="10030791149"/>
+<nd ref="10030791144"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294968" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030791146"/>
+<nd ref="10030791147"/>
+<nd ref="10030791148"/>
+<nd ref="10030791149"/>
+<nd ref="10030791146"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294969" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030791150"/>
+<nd ref="10030791151"/>
+<nd ref="10030791152"/>
+<nd ref="10030791148"/>
+<nd ref="10030791147"/>
+<nd ref="10030791153"/>
+<nd ref="10030791150"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294970" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030791154"/>
+<nd ref="10030791155"/>
+<nd ref="10030791150"/>
+<nd ref="10030791153"/>
+<nd ref="10030791156"/>
+<nd ref="10030791158"/>
+<nd ref="10030791154"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294971" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030791157"/>
+<nd ref="10030791158"/>
+<nd ref="10030791156"/>
+<nd ref="10030791159"/>
+<nd ref="10030791162"/>
+<nd ref="10030791157"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294972" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030791159"/>
+<nd ref="10030791173"/>
+<nd ref="10030791160"/>
+<nd ref="10030791161"/>
+<nd ref="10030791162"/>
+<nd ref="10030791159"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294973" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030791160"/>
+<nd ref="10030791163"/>
+<nd ref="10030791164"/>
+<nd ref="10030791161"/>
+<nd ref="10030791160"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294974" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030791165"/>
+<nd ref="10030791166"/>
+<nd ref="10030791167"/>
+<nd ref="10030791168"/>
+<nd ref="10030791165"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294975" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030791166"/>
+<nd ref="10030791169"/>
+<nd ref="10030791170"/>
+<nd ref="10030791171"/>
+<nd ref="10030791166"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294976" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030791163"/>
+<nd ref="10030791169"/>
+<nd ref="10030791170"/>
+<nd ref="10030791172"/>
+<nd ref="10030791173"/>
+<nd ref="10030791163"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294977" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030791159"/>
+<nd ref="10030791174"/>
+<nd ref="10030791172"/>
+<nd ref="10030791173"/>
+<nd ref="10030791159"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294978" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030791153"/>
+<nd ref="10030791176"/>
+<nd ref="10030791175"/>
+<nd ref="10030791156"/>
+<nd ref="10030791153"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294979" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030791156"/>
+<nd ref="10030791175"/>
+<nd ref="10030791174"/>
+<nd ref="10030791159"/>
+<nd ref="10030791156"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294980" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030791153"/>
+<nd ref="10030791147"/>
+<nd ref="10030791177"/>
+<nd ref="10030791176"/>
+<nd ref="10030791153"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294981" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030791147"/>
+<nd ref="10030791146"/>
+<nd ref="10030791178"/>
+<nd ref="10030791177"/>
+<nd ref="10030791147"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294982" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030791146"/>
+<nd ref="10030791142"/>
+<nd ref="10030791179"/>
+<nd ref="10030791178"/>
+<nd ref="10030791146"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294983" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030791142"/>
+<nd ref="10030791140"/>
+<nd ref="10030339449"/>
+<nd ref="10030339452"/>
+<nd ref="10030791179"/>
+<nd ref="10030791142"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294984" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030791137"/>
+<nd ref="10030791180"/>
+<nd ref="10030791181"/>
+<nd ref="10030791133"/>
+<nd ref="10030791134"/>
+<nd ref="10030791137"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294985" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030791130"/>
+<nd ref="10030791182"/>
+<nd ref="10030791183"/>
+<nd ref="10030791181"/>
+<nd ref="10030791133"/>
+<nd ref="10030791130"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294986" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030791128"/>
+<nd ref="10030791184"/>
+<nd ref="10030791183"/>
+<nd ref="10030791182"/>
+<nd ref="10030791130"/>
+<nd ref="10030791128"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294987" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030791124"/>
+<nd ref="10030791126"/>
+<nd ref="10030791184"/>
+<nd ref="10030791128"/>
+<nd ref="10030791124"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294988" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030791185"/>
+<nd ref="10030791186"/>
+<nd ref="10030791191"/>
+<nd ref="10030791187"/>
+<nd ref="10030791188"/>
+<nd ref="10030791185"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294989" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030791187"/>
+<nd ref="10030791189"/>
+<nd ref="10030791190"/>
+<nd ref="10030791191"/>
+<nd ref="10030791187"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294990" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030791189"/>
+<nd ref="10030791192"/>
+<nd ref="10030791193"/>
+<nd ref="10030791197"/>
+<nd ref="10030791194"/>
+<nd ref="10030791190"/>
+<nd ref="10030791189"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294991" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030791193"/>
+<nd ref="10030791195"/>
+<nd ref="10030791196"/>
+<nd ref="10030791197"/>
+<nd ref="10030791193"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294992" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030791195"/>
+<nd ref="10030791198"/>
+<nd ref="10030791199"/>
+<nd ref="10030791196"/>
+<nd ref="10030791195"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294993" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030791198"/>
+<nd ref="10030791200"/>
+<nd ref="10030791201"/>
+<nd ref="10030791199"/>
+<nd ref="10030791198"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294994" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030791201"/>
+<nd ref="10030791202"/>
+<nd ref="10030791203"/>
+<nd ref="10030791200"/>
+<nd ref="10030791201"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294995" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030791202"/>
+<nd ref="10030791204"/>
+<nd ref="10030791208"/>
+<nd ref="10030791205"/>
+<nd ref="10030791203"/>
+<nd ref="10030791202"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294996" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030791205"/>
+<nd ref="10030791206"/>
+<nd ref="10030791207"/>
+<nd ref="10030791208"/>
+<nd ref="10030791205"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294997" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030791206"/>
+<nd ref="10030791209"/>
+<nd ref="10030791211"/>
+<nd ref="10030791210"/>
+<nd ref="10030791207"/>
+<nd ref="10030791206"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<create>
+<way id="1095294998" visible="true" version="1" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030791211"/>
+<nd ref="10030791212"/>
+<nd ref="10030791213"/>
+<nd ref="10030791209"/>
+<nd ref="10030791211"/>
+<tag k="building" v="house"/>
+</way>
+</create>
+<modify>
+<node id="4197311453" visible="true" version="2" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8505684" lon="-83.9173613"/>
+</modify>
+<modify>
+<node id="4197311454" visible="true" version="2" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8502956" lon="-83.9163003"/>
+</modify>
+<modify>
+<node id="10030298409" visible="true" version="2" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8516275" lon="-83.9174907"/>
+</modify>
+<modify>
+<node id="10030298410" visible="true" version="2" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8516142" lon="-83.9173538"/>
+</modify>
+<modify>
+<node id="10030434650" visible="true" version="2" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8513435" lon="-83.9164652"/>
+</modify>
+<modify>
+<node id="10030434651" visible="true" version="2" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8513313" lon="-83.9162676"/>
+</modify>
+<modify>
+<node id="10030434652" visible="true" version="2" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8512689" lon="-83.9162717"/>
+</modify>
+<modify>
+<node id="10030434653" visible="true" version="2" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8512826" lon="-83.9164691"/>
+</modify>
+<modify>
+<node id="10030434655" visible="true" version="2" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8516572" lon="-83.9164311"/>
+</modify>
+<modify>
+<node id="10030434656" visible="true" version="2" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8516492" lon="-83.9162468"/>
+</modify>
+<modify>
+<way id="912435365" visible="true" version="2" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="8476145151"/>
+<nd ref="8476145152"/>
+<nd ref="8476145153"/>
+<nd ref="8476145154"/>
+<nd ref="4197311454"/>
+<nd ref="10030791213"/>
+<nd ref="10030791209"/>
+<nd ref="10030791206"/>
+<nd ref="10030791205"/>
+<nd ref="10030791203"/>
+<nd ref="10030791200"/>
+<nd ref="10030791198"/>
+<nd ref="10030791195"/>
+<nd ref="10030791193"/>
+<nd ref="10030791192"/>
+<nd ref="10030791189"/>
+<nd ref="10030791187"/>
+<nd ref="10030791188"/>
+<nd ref="4197311453"/>
+<nd ref="4197311452"/>
+<nd ref="8476145155"/>
+<nd ref="8476145151"/>
+<tag k="landuse" v="residential"/>
+<tag k="name" v="Urb. Las Alejandrinas"/>
+</way>
+</modify>
+<modify>
+<way id="1095259671" visible="true" version="2" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030434650"/>
+<nd ref="10030778189"/>
+<nd ref="10030434651"/>
+<nd ref="10030434652"/>
+<nd ref="10030778186"/>
+<nd ref="10030434653"/>
+<nd ref="10030434650"/>
+<tag k="building" v="house"/>
+<tag k="name" v="10A"/>
+</way>
+</modify>
+<modify>
+<node id="10030339449" visible="true" version="4" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8514253" lon="-83.9167020"/>
+</modify>
+<modify>
+<node id="10030339450" visible="true" version="4" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8513540" lon="-83.9167063"/>
+</modify>
+<modify>
+<node id="10030339451" visible="true" version="4" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8513443" lon="-83.9165427"/>
+</modify>
+<modify>
+<way id="1095245267" visible="true" version="4" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="10030339449"/>
+<nd ref="10030791138"/>
+<nd ref="10030339450"/>
+<nd ref="10030339451"/>
+<nd ref="10030339452"/>
+<nd ref="10030339449"/>
+<tag k="building" v="house"/>
+<tag k="name" v="Sam's Beauty"/>
+<tag k="shop" v="beauty"/>
+</way>
+</modify>
+<modify>
+<node id="10030339452" visible="true" version="5" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805" lat="9.8514156" lon="-83.9165383"/>
+</modify>
+<modify>
+<way id="382588294" visible="true" version="5" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="3855004027"/>
+<nd ref="10030778203"/>
+<nd ref="3857931931"/>
+<nd ref="10030778200"/>
+<nd ref="4197311455"/>
+<nd ref="10030434657"/>
+<nd ref="10030434656"/>
+<nd ref="10030434648"/>
+<nd ref="10030434649"/>
+<nd ref="10030778185"/>
+<nd ref="3857931932"/>
+<nd ref="4197311454"/>
+<nd ref="3857931933"/>
+<nd ref="3857931934"/>
+<nd ref="3857931935"/>
+<nd ref="3857931936"/>
+<nd ref="3857931937"/>
+<nd ref="3857931938"/>
+<nd ref="3857931939"/>
+<nd ref="3857931940"/>
+<nd ref="3857931941"/>
+<nd ref="3857931942"/>
+<nd ref="3857931943"/>
+<nd ref="3857931944"/>
+<nd ref="3857931945"/>
+<tag k="admin_level" v="8"/>
+<tag k="boundary" v="administrative"/>
+</way>
+</modify>
+<modify>
+<way id="419723638" visible="true" version="5" changeset="126283687" timestamp="2022-09-17T03:28:15Z" user="FranVQ09" uid="17117805">
+<nd ref="4197311450"/>
+<nd ref="4197311451"/>
+<nd ref="4197311452"/>
+<nd ref="4197311453"/>
+<nd ref="10030791188"/>
+<nd ref="10030791187"/>
+<nd ref="10030791189"/>
+<nd ref="10030791192"/>
+<nd ref="10030791193"/>
+<nd ref="10030791195"/>
+<nd ref="10030791198"/>
+<nd ref="10030791200"/>
+<nd ref="10030791203"/>
+<nd ref="10030791205"/>
+<nd ref="10030791206"/>
+<nd ref="10030791209"/>
+<nd ref="10030791213"/>
+<nd ref="4197311454"/>
+<nd ref="10030778172"/>
+<nd ref="10030778171"/>
+<nd ref="10030778175"/>
+<nd ref="10030778177"/>
+<nd ref="10030778179"/>
+<nd ref="10030778181"/>
+<nd ref="10030778183"/>
+<nd ref="10030434652"/>
+<nd ref="10030434651"/>
+<nd ref="10030778190"/>
+<nd ref="10030778193"/>
+<nd ref="10030778195"/>
+<nd ref="10030778198"/>
+<nd ref="4197311455"/>
+<nd ref="10030778205"/>
+<nd ref="10030778207"/>
+<nd ref="10030778209"/>
+<nd ref="4197311456"/>
+<nd ref="4197311457"/>
+<nd ref="4197311458"/>
+<nd ref="10030434660"/>
+<nd ref="10030434663"/>
+<nd ref="10030791027"/>
+<nd ref="10030791030"/>
+<nd ref="10030791032"/>
+<nd ref="10030791033"/>
+<nd ref="10030791036"/>
+<nd ref="10030791039"/>
+<nd ref="10030791041"/>
+<nd ref="10030298402"/>
+<nd ref="4197311459"/>
+<nd ref="4197311460"/>
+<nd ref="4197311450"/>
+<tag k="landuse" v="residential"/>
+<tag k="name" v="Urb. Las Garzas"/>
+</way>
+</modify>
+</osmChange>
